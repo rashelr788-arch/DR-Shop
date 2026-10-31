@@ -1,0 +1,13 @@
+{
+  "id": "/DR-Shop/",
+  "name": "DR Shop",
+  "short_name": "DR Shop",
+  "description": "DR Shop Online Marketplace",
+  "lang": "bn",
+  "start_url": "/DR-Shop/",
+  "scope": "/DR-Shop/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8b0000",
+  "icons": []
+}
